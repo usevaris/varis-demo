@@ -14,7 +14,7 @@
       ],
       "endpoint_url": "https://demo.varis.my/api/hello-world",
       "method": "GET",
-      "price_cents": 0,
+      "price_cents": 10,
       "version": "1.0.0",
       "status": "published",
       "input_schema": {

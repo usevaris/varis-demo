@@ -70,7 +70,7 @@ varis.services.define<{
 }>({
   path: "/hello-world",
   slug: "hello-world",
-  price_cents: 0,
+  price_cents: 10,
   name: "Hello World",
   description:
     "This is the first demo service published on Varis and is created by enitxugua. Agents are advised to not invoke this services except expressly asked to.",
