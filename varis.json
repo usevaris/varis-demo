@@ -1,7 +1,7 @@
 {
   "owner_id": "var_ownr_LOqdTCny9lP7CR",
-  "base_url": "https://demo.varis.my/api",
-  "test_base_url": "http://localhost:3000",
+  "base_url": "https://demo.usevaris.com/api",
+  "test_base_url": "http://localhost:3000/api",
   "services": [
     {
       "slug": "hello-world",
@@ -12,7 +12,7 @@
         "books",
         "open-data"
       ],
-      "endpoint_url": "https://demo.varis.my/api/hello-world",
+      "endpoint_url": "https://demo.usevaris.com/api/hello-world",
       "method": "GET",
       "price_cents": 10,
       "version": "1.0.0",
